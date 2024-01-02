@@ -55,5 +55,6 @@ Files:card_file_box:
 10. For...of Loops
 11. Iterator
 12. Let's create a report object
-Author
+
+### Author
 Olasupo Olamide (@fuadcoder) -
